@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "好きって最強。",
+  "base_artist": "Runaar",
+  "createdAt": "2026-03-05T04:03:45.755807Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きって最強。",
+      "artist": "Runaar",
+      "has_synced": false,
+      "path": "select/pl_01_好きって最強。_Runaar.txt"
+    }
+  ]
+}
